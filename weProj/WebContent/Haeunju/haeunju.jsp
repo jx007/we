@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- 제발 좀
+ 무좀
 </body>
 </html>
