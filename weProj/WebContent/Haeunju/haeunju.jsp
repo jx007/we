@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 간다 이제 가네 껄껄 아주 좋네 d
+=======
+ 무좀
+>>>>>>> branch 'master' of https://github.com/jx007/we.git
 </body>
 </html>
